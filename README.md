@@ -9,7 +9,7 @@
 
 | التصنيف       | العنوان                                 | الحلقة |
 | ------------- | --------------------------------------- | ------ |
-| فيزياء, سياسة | <a href="233.md">الرعب النووي </a>      |        |
+| فيزياء, سياسة | <image src="https://i.ytimg.com/vi/fPYCDLymh4Q/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDAhRRXcZywAeP8T7C6NRQZyytorQ"> </image> <a href="233.md">الرعب النووي </a>      |        |
 | تكنولوجيا     | <a href="">الهاتف الذكي </a>            |        |
 |               | <a href=""> اختبار الذكاء </a>          |        |
 | علم أجتماع    | <a href=""> الرجل الأبيض شايل نفسه </a> |        |
