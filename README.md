@@ -9,7 +9,7 @@
 
 | التصنيف       | العنوان                                        | غلاف الحلقة                                                  | الحلقة |
 | ------------- | ---------------------------------------------- | ------------------------------------------------------------ | ------ |
-| فيزياء, سياسة | <a href="episodes/138.md">الرعب النووي </a>    | <image width="60%" height="70%" src="https://i.ytimg.com/vi/fPYCDLymh4Q/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDAhRRXcZywAeP8T7C6NRQZyytorQ">  </image> | 135    |
+| فيزياء, سياسة | <a href="episodes/138.md">الرعب النووي </a>    | <image src="https://i.ytimg.com/vi/fPYCDLymh4Q/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDAhRRXcZywAeP8T7C6NRQZyytorQ">  </image> | 135    |
 | تكنولوجيا     | <a href="">الهاتف الذكي </a>                   | <image width="60%" height="70%" src="https://i.ytimg.com/vi/P6Dqi2DZHYU/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCybh-SFLGL1QKjsbN9Pa8PpJdzpA"> </image> | 134    |
 |               | <a href=""> اختبار الذكاء </a>                 | <image width="60%" height="70%" src="https://i.ytimg.com/vi/bkqGAcAmyJc/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCc-_AgZHREIIcu4SZnf90ILaaCiQ"> </image> | 133    |
 | علم أجتماع    | <a href=""> الرجل الأبيض شايل سيفه </a>        | <image width="60%" height="70%" src="https://i.ytimg.com/vi/mP6Psd6YcQI/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBvfuDBjKB1Tx42KHQxyre1NcoAHg"> </image> | 132    |
